@@ -9,4 +9,4 @@ refer to these locations for schematics:
 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
-© 2024 [Ed Graffius/THE-Quaddriver]. 
+© 2026 [Ed Graffius/THE-Quaddriver]. 
