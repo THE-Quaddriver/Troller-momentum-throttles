@@ -7,4 +7,4 @@ markdown
 
 ## Other Power Pack Guides
 * [Model 20 and 34 Schematic](https://github.com/THE-Quaddriver/Troller-Transformer-schematics)
-* [Mature model 20 schematic - likely last version]()
+* [Mature model 20 schematic - likely last version](https://github.com/THE-Quaddriver/Mature-Model-20-Transamp-1)
